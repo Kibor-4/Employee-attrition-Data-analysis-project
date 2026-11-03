@@ -49,10 +49,10 @@ Avg Monthly Income = AVERAGE(employee_attrition_1000[MonthlyIncome])
 ## 📈 Executive Insights
 Based on the visual data exploration of the 1,000-employee cohort, several critical retention vulnerabilities were identified:
 
-1. **The Overtime & Burnout Catalyst:** Employees required to work consistent **Overtime** exhibit an attrition rate that is **double** the company average, signaling widespread operational burnout.
-2. **Early Tenure Vulnerability:** Staff members with **under 2 years of tenure** account for a disproportionately large slice of total attrition, indicating gaps in the onboarding process or misaligned role expectations during hiring.
-3. **Role-Specific Turnover:** The **Sales and Research & Development** roles show the most volatile attrition spikes, heavily tied to lower-than-average job satisfaction scores and intense performance pressures.
-4. **Compensation Stagnation:** Employees who have gone **3+ years without a promotion** show a sharp upward trend in turnover, particularly in mid-level operational roles.
+Review overtime in Operations and Sales. Overtime is the clearest link to attrition, so set limits and check workloads.
+Strengthen the first three years. Better onboarding, mentoring and promotion paths for new and early-career staff.
+Target the under-25 group. Check pay, development and career pathways against what they leave for.
+Look closer at employees rated 2. They show the highest attrition of any rating (21%), so see whether managers need support. 
 
 ## 💡 Strategic Recommendations
 To actively lower the attrition rate and retain top talent, the following HR interventions are recommended:
