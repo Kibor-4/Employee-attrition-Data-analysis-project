@@ -49,10 +49,10 @@ Avg Monthly Income = AVERAGE(employee_attrition_1000[MonthlyIncome])
 ## 📈 Executive Insights
 Based on the visual data exploration of the 1,000-employee cohort, several critical retention vulnerabilities were identified:
 
-	Review overtime in Operations and Sales. Overtime is the clearest link to attrition, so set limits and check workloads.
-	Strengthen the first three years. Better onboarding, mentoring and promotion paths for new and early-career staff.
-	Target the under-25 group. Check pay, development and career pathways against what they leave for.
-	Look closer at employees rated 2. They show the highest attrition of any rating (21%), so see whether managers need support. 
+Review overtime in Operations and Sales. Overtime is the clearest link to attrition, so set limits and check workloads.
+Strengthen the first three years. Better onboarding, mentoring and promotion paths for new and early-career staff.
+Target the under-25 group. Check pay, development and career pathways against what they leave for.
+Look closer at employees rated 2. They show the highest attrition of any rating (21%), so see whether managers need support. 
 
 ## 💡 Strategic Recommendations
 To actively lower the attrition rate and retain top talent, the following HR interventions are recommended:
