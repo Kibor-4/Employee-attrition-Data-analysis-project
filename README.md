@@ -66,5 +66,5 @@ To actively lower the attrition rate and retain top talent, the following HR int
 ## 🚀 How to Interact with this Project
 1. Download and install the latest version of [Power BI Desktop](https://microsoft.com).
 2. Clone this repository locally: `git clone https://github.com`
-3. Open `HR_Attrition_Dashboard.pbix` in Power BI Desktop to interactively filter the visual matrix by Department, Role, and Tenure.
+3. Open `HRD` in Power BI Desktop to interactively filter the visual matrix by Department, Role, and Tenure.
 
